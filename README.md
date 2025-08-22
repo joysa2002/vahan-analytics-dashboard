@@ -36,7 +36,10 @@ git clone https://github.com/your-username/vahan-analytics-dashboard.git
 cd vahan-analytics-dashboard
 ```
 2. Install required packages:
+```bash
 pip install -r requirements.txt
-
-3. run the dashboard:
+```
+4. run the dashboard:
+```bash
 streamlit run vahan_dashboard.py
+```
