@@ -1,12 +1,12 @@
 # vahan-analytics-dashboard
 Investor analytics dashboard for Vahan vehicle registration data
 
-# Vahan Vehicle Registration Analytics Dashboard
+Vahan Vehicle Registration Analytics Dashboard
 
-## 📊 Project Overview
+Project Overview
 An investor-focused analytics dashboard for Indian vehicle registration data from the Vahan database. Provides YoY growth analysis, market share trends, and investment insights.
 
-## 🚀 Features
+Features
 - Year-over-Year (YoY) growth calculations (25.7% average growth!)
 - Quarter-over-Quarter (QoQ) trend analysis
 - Market share by manufacturer
